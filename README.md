@@ -3,8 +3,8 @@
 
 Group Number: **1**
 ## Members
-*Hernandez
+* Manolo Hernandez
 
-*Celeste
+* Jimuel Celeste
 
-*Puato
+* Ricardo Puato
